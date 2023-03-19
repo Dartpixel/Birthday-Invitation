@@ -1,0 +1,79 @@
+* {
+	box-sizing: border-box;
+	background: url("bg.avif");
+}
+
+h1 {
+	text-align: center;
+	height: 2.5cm;
+	color: rgb(238, 71, 238);
+	font-family: "Shrikhand", cursive;
+	font-family: "Viga", sans-serif;
+	padding: 5px;
+	background-image: url(bgimg.jpeg);
+}
+
+h2 {
+	text-align: center;
+	color: maroon;
+}
+
+h3 {
+	font-weight: bold;
+	color: maroon;
+}
+
+p {
+	color: blue;
+	font-family: Cosmic Sans, Cursive, Arial, Verdana, sans-serif;
+}
+
+.list1 ul {
+	border: solid gold;
+	border-radius: 40px;
+	border-style: groove;
+	padding-right: 40px;
+}
+
+.list2 ul {
+	border: solid blue;
+	border-radius: 40px;
+	border-style: groove;
+	padding-right: 40px;
+}
+.list1 ul li {
+	color: red;
+	font-style: italic;
+	text-indent: 15px;
+	font-weight: bold;
+	padding: 4px;
+	list-style-type: none;
+	padding: 0.4cm;
+	margin: 0.2cm;
+}
+
+.list2 ul li {
+	color: red;
+	font-style: italic;
+	text-indent: 15px;
+	font-weight: bold;
+	padding: 4px;
+	list-style-type: none;
+	padding: 0.4cm;
+	margin: 0.2cm;
+}
+img {
+	margin: 30px;
+	border: solid black;
+}
+
+.tag {
+	text-align: center;
+	color: navy;
+}
+
+a:hover {
+	font-size: 17px;
+	color: black;
+	text-decoration: underline gold;
+}
