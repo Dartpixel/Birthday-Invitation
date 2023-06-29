@@ -4,4 +4,4 @@ https://dartpixel.github.io/Birthday-Invitation/
   
 Happy Birthday to everyone in advance !!
 For any issue, please pull in the issue
-Designed in HTML CSS only
+Designed in HTML CSS only.
